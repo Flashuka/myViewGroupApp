@@ -161,7 +161,18 @@
             android:layout_marginStart="15dp"
             android:layout_marginEnd="15dp"
             android:textSize="17sp"
-            android:text="@string/desc_text2"/>
+            android:text="@string/desc_text2"
+            android:autoLink="all"/>
+
+        <Button
+            android:id="@+id/moreInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="7dp"
+            android:text="@string/more_info"/>
 
     </LinearLayout>
 </ScrollView>
