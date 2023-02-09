@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Flashuka\'s ViewGroup App</string>
-    <string name="dump_photos">3 photos obtained</string>
+    <string name="dump_photos">0 photos obtained</string>
     <string name="entry_price">entry Rp.35k per person</string>
     <string name="event_name">L\'Tropico Cosplay Event</string>
     <string name="desc_text">Hallo selamat malam rakyat cosmed.. Ada event nih buat tahun depan di bulan JANUARI\nKZR.Inc Proudly Present..\n\nITSUMO Paatti : yang berarti selalu berpesta. Adalah tema yang kami ambil kali ini, menggambarkan pesta yang tidak berakhir dan selalu membawa kebahagiaan dan memorable meski acarasudah berakhir, namun sensasinya akan selalu diingat.</string>
@@ -16,5 +16,8 @@
     <string name="batas_registrasi">Batas Registrasi</string>
     <string name="_27_januari_2023">27 Januari 2023</string>
     <string name="more_info">More Info</string>
+    <string name="github">Github : Flashuka </string>
+    <string name="facebook_flashuka">Facebook : Flashuka</string>
+    <string name="facebook_raihan">Facebook : My Friend</string>
 
 </resources>
